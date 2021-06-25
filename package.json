@@ -1,0 +1,19 @@
+{
+  "name": "node-pokemon-api",
+  "version": "1.0.0",
+  "description": "An awsesome API Rest to handle some pokemons.",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "author": "szpxx",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "serve-favicon": "^2.5.0"
+  },
+  "devDependencies": {
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.7"
+  }
+}
